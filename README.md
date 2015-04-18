@@ -1,2 +1,2 @@
-# git_practicw
+# git_practice
 test
